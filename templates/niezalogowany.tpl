@@ -1,0 +1,1 @@
+<p>Nieprawidłowy id sesji lub sesja wygasła.</p>
